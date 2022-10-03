@@ -2,6 +2,8 @@
 My own build of the Sofle Rev1 Split Keyboard
 Original creator/repo https://josefadamcik.github.io/SofleKeyboard/
 
+![Sofle Keyboard](/sofle/IMG-7727.jpg)
+
 I bought the barebones kit from mechboards.co.uk/products/sofle-kit#, which comes with the 2 pcbs, top and bottom plates,
 65 SMD diodes, MX hotswap sockets, 2 OLED screens, 2 TRRS jacks, 2 rotary encoders, 2 reset buttons and some accessories.
 I used 2 pro-micro microcontrollers
